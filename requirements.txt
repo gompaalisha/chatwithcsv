@@ -1,0 +1,9 @@
+langchain
+pandas 
+langchain_experimental
+google-generativeai 
+langchain-google-genai
+python-dotenv
+tabulate
+Streamlit
+numpy
